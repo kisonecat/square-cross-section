@@ -6,7 +6,7 @@ The file [scene.pov](scene.pov) is a [POVray](http://www.povray.org/) scene whic
 
 with square cross sections.
 
-Running `povray [scene.ini](scene.ini)` produces a bunch of PNGs that can be `ffmpeg`ed together into a loopable movie:
+Running povray on [scene.ini](scene.ini) produces a bunch of PNGs that can be `ffmpeg`ed together into a loopable movie:
 
 [![Animation generated from the scene.ini file](http://img.youtube.com/vi/fBSkNQty0WI/0.jpg)](http://www.youtube.com/watch?v=fBSkNQty0WI "Square cross sections")
 
